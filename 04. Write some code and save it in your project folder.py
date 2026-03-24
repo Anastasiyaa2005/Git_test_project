@@ -1,2 +1,1 @@
-print("Hello world!")
-print("This is my updated version.")
+print("Hello world! (main branch version)")
